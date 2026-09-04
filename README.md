@@ -24,7 +24,6 @@
 ├── css/
 │   └── style.css        # Stylesheet
 └── assets/
-    ├──
 ```
 
 ## Database
