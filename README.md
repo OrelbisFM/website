@@ -1,4 +1,6 @@
 **Orelbis' Games** is a simple PHP + MySQL website project.
+
+The live website is located at: http://orelbisgames.mygamesonline.org/
 ## Contains
 - **Product catalog** - browsable grid of games with prices (`index.php`, `products.php`)
 - **User accounts** - registration, login, logout (`register.php`, `login.php`, `logout.php`)
