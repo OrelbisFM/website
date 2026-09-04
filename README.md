@@ -24,13 +24,7 @@
 ├── css/
 │   └── style.css        # Stylesheet
 └── assets/
-    ├── logo.png
-    ├── minecraft.jpg
-    ├── clashofclans.jpg
-    ├── amongus.jpg
-    ├── fortnite.jpg
-    ├── callofduty.jpg
-    └── pubg.jpg
+    ├──
 ```
 
 ## Database
